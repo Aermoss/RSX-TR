@@ -1,0 +1,1 @@
+namespace standart { include "rsxtrio/rsxtrio.py" : *; }
